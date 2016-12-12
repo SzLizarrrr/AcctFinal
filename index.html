@@ -2,6 +2,7 @@
 <html>
 <head>
 <title>Welcome to Final</title>
+<meta charset="utf-8"/>
 <style>
     body {
         width: 35em;
@@ -16,17 +17,16 @@
 <script type="text/javascript">
     $(function()  {
         $.getJSON('questions/trueOrFalse.json',function(data){
-            var items = [];
+            var subjects= [];
             $.each( data, function( key, val ) {
-                items.push(
-                    "<li id='question " + key + "'>" + val.question + "</li>" +
-                    "<li id='choise " + key + "'>" + val.choise[0] + "</li>"
+                subjects.push(
+                    "<li id='question" + key + "'>" + val.question + "</li>"
                 );
             });
- 
+
             $( "<ul/>", {
                 "class": "my-new-list",
-                html: items.join( "" )
+                html: subjects.join( "" )
             }).appendTo( "body" );
         });
     });
