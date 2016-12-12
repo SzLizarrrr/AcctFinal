@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Welcome to Final</title>
+<style>
+    body {
+        width: 35em;
+        margin: 0 auto;
+        font-family: Tahoma, Verdana, Arial, sans-serif;
+    }
+</style>
+</head>
+<body>
+<h1>Hello Final</h1>
+<script type="text/javascript" src="http://code.jquery.com/jquery.min.js"></script>
+<script type="text/javascript">
+    $(function()  {
+        $.getJSON('questions/test.json',function(data){
+            console.log('success');
+            $.each(data.question,function(i,q){
+                $('ul').append('<li>'+q.question +' '+q.choise +'</li>');
+            });
+        }).error(function(){
+            console.log('error');
+        });
+    });
+</script>
+</body>
+</html>

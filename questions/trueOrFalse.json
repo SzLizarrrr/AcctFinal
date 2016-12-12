@@ -1,0 +1,118 @@
+[
+	{
+	"question" : "Many off-balance-sheet financings fall into one of two categories that accounting typically does not recognize as liabilities: executory contracts and contingent obligations.",
+	"choise" : [ "True", "False" ]
+	},
+	{
+	"question" : "U.S. GAAP and IFRS provide guidance for deciding whether a given financing arrangement appears as a liability on the balance sheet or is disclosed in the notes.",
+	"choise" : [ "True", "False" ]
+	},
+	{
+	"question" : "The accounting for transfers of receivables has come under the scrutiny of standard setters, as has the accounting for transfers involving inventories and research and development",
+	"choise" : [ "True", "False" ]
+	},
+	{
+	"question" : "U.S. GAAP and IFRS require firms to recognize the cost of pension plans as an expense during the years as the employees receive the retirement benefits.",
+	"choise" : [ "True", "False" ]
+	},
+	{
+	"question" : "The assets in a defined benefit pension plan will usually not equal the liabilities of the plan, resulting in an overfunded or underfunded plan.",
+	"choise" : [ "True", "False" ]
+	},
+	{
+	"question" : "Under current accounting guidance, the employer consolidates the assets and liabilities of the firm’s pension plan with its own assets and liabilities.",
+	"choise" : [ "True", "False" ]
+	},
+	{
+	"question" : "The total amount of cash that the employer contributes to the firm’s pension plan over time is the total amount of pension expense that the employer must recognize in measuring net income.",
+	"choise" : [ "True", "False" ]
+	},
+	{
+	"question" : "The pension expense for a particular period is the amount of the cash contribution for defined contribution pension plans.",
+	"choise" : [ "True", "False" ]
+	},
+	{
+	"question" : "The pension expense for a particular period for a firm’s defined benefit pension plans rarely equals the cash contribution.",
+	"choise" : [ "True", "False" ]
+	},
+	{
+	"question" : "U.S. GAAP and IFRS require firms to report pension plan assets at the estimated future value.",
+	"choise" : [ "True", "False" ]
+	},
+	{
+	"question" : "U.S. GAAP defines the primary measurement of the pension liability of the pension plan as the projected benefit obligation (PBO)—the future value of the amount the pension plan expects to pay to employees during retirement based on accumulated service but using the level of salary expected to serve as a basis for computing pension benefits.",
+	"choise" : [ "True", "False" ]
+	},
+	{
+	"question" : "The employer firm and the pension plan are legally separate entities, each with its own financial reports.",
+	"choise" : [ "True", "False" ]
+	},
+	{
+	"question" : "The balance sheet of a defined benefit pension plan includes the assets in the pension plan measured at fair value and the projected benefit obligation measured using a current interest rate on high-quality fixed-income investments. The difference between the assets and the liabilities indicates the extent to which a pension plan is overfunded or underfunded.",
+	"choise" : [ "True", "False" ]
+	},
+	{
+	"question" : "In a defined benefit plan, the employer is ultimately responsible for either contributing cash or obtaining a return on pension investments sufficient to pay promised amounts to retired employees.",
+	"choise" : [ "True", "False" ]
+	},
+	{
+	"question" : "Many entries in Other Comprehensive Income represent changes in fair value of the pension plan(s) that receives delayed recognition in net income.",
+	"choise" : [ "True", "False" ]
+	},
+	{
+	"question" : "Under both U.S. GAAP and IFRS, the following formula calculates the Net Pension Expense (or Credit) for a defined benefit pension plan:       Interest Cost (the increase in the obligation because of the passage of time)  +    Service Cost (the increase in the obligation because of an additional year of employee service)  -     Expected Return on Pension Investments  +/-  Amortization of Performance and Actuarial Gains and Losses  +/-  Amortization of Prior Service Cost",
+	"choise" : [ "True", "False" ]
+	},
+	{
+	"question" : "Pension expense for a defined contribution plan always exceeds the employer’s contribution to the plan.",
+	"choise" : [ "True", "False" ]
+	},
+	{
+	"question" : "Employer contributions to defined benefit pension plans are subject to several forms of government regulation.",
+	"choise" : [ "True", "False" ]
+	},
+	{
+	"question" : "The accounting and reporting of health care, life insurance, and other postretirement plans follow the concepts and procedures for defined benefit pension plans.",
+	"choise" : [ "True", "False" ]
+	},
+	{
+	"question" : "For many firms, the liability for the underfunded health care obligation exceeds the liability for underfunded pensions.",
+	"choise" : [ "True", "False" ]
+	},
+	{
+	"question" : "Firms currently apply the fair value option to retirement plan obligations and report unamortized items in net income as they arise.",
+	"choise" : [ "True", "False" ]
+	},
+	{
+	"question" : "U.S. GAAP and IFRS requires the recognition of changes in the plan assets or benefit obligations in measuring pension or other benefits expense as those changes occur.",
+	"choise" : [ "True", "False" ]
+	},
+	{
+	"question" : "Permanent differences between pretax book income and taxable income arise from tax-exempt interest revenue and certain fines.",
+	"choise" : [ "True", "False" ]
+	},
+	{
+	"question" : "The temporary difference associated with accelerated depreciation for tax purposes and straight-line depreciation for financial reporting purposes means that a firm will pay lower income taxes in the early years of the asset’s life, but this temporary difference will reverse over the entire asset life, resulting in higher taxes in later years.",
+	"choise" : [ "True", "False" ]
+	},
+	{
+	"question" : "Total lifetime depreciation amounts on equipment for both financial reporting and tax reporting are the same, only the timing may differ.",
+	"choise" : [ "True", "False" ]
+	},
+	{
+	"question" : "Income tax rates change over time, so the deferred tax liability need not represent the amount of taxes that the firm must pay later.",
+	"choise" : [ "True", "False" ]
+	},
+	{
+	"question" : "U.S. international companies always have an effective tax rate equal to the 35% statutory tax rate.",
+	"choise" : [ "True", "False" ]
+	},
+	{
+	"question" : "Acquired in-process research and development (IPR&D) is never deductible for tax purposes and results in an increased effective tax rate.",
+	"choise" : [ "True", "False" ]
+	},
+	{
+	"question" : "The notes to the financial statements provide information on the components of book income before taxes, the current and deferred portions of income tax expense, a reconciliation between income taxes at the statutory rate and the effective rate, and the components of deferred tax assets and deferred tax liabilities.",
+	"choise" : [ "True", "False" ]
+	}
+]
