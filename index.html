@@ -20,8 +20,13 @@
             var subjects= [];
             $.each( data, function( key, val ) {
                 subjects.push(
-                    "<li id='question" + key + "'>" + val.question + "</li>"
+                    "<li id='question_" + key + "'>" + val.question + "</li>"
                 );
+                $.each( val.choise, function (i, val) {
+                    subjects.push(
+                      "<li id='choise_" + key + "_" + i +"'>" + val + "</li>"
+                    );
+                });
             });
 
             $( "<ul/>", {
