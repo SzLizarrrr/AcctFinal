@@ -3,32 +3,11 @@
 <head>
 <title>Welcome to Final</title>
 <meta charset="utf-8"/>
-<link rel="stylesheet" href="css/index.css"/>
+<link rel="stylesheet" type="text/css" href="css/index.css"/>
 </head>
 <body>
 <h1>Hello Final</h1>
 <script type="text/javascript" src="http://code.jquery.com/jquery.min.js"></script>
-<script type="text/javascript">
-    $(function()  {
-        $.getJSON('questions/trueOrFalse.json',function(data){
-            var subjects= [];
-            $.each( data, function( key, val ) {
-                subjects.push(
-                    "<li id='question_" + key + "'>" + val.question + "</li>"
-                );
-                $.each( val.choise, function (i, val) {
-                    subjects.push(
-                      "<li id='choise_" + key + "_" + i +"'>" + val + "</li>"
-                    );
-                });
-            });
-
-            $( "<ul/>", {
-                "class": "my-new-list",
-                html: subjects.join( "" )
-            }).appendTo( "body" );
-        });
-    });
-</script>
+<script type="text/javascript" src="js/index.js"></script>
 </body>
 </html>
